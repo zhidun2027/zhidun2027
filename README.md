@@ -26,9 +26,11 @@
 - ✍️ &nbsp;Re-signs with apksig — v1 / v2 / v3
 - 🌐 &nbsp;Fully documented & auditable — [website](https://zhidun2027.github.io/zhidun/) · no black box
 
-<a href="https://github.com/zhidun2027/zhidun">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=zhidun2027&repo=zhidun&hide_border=true&title_color=39d98a&icon_color=49cfe0&text_color=c9d1d9&bg_color=0d1117" alt="zhidun repo" />
-</a>
+[![repo zhidun](https://img.shields.io/badge/★_repo-zhidun-39d98a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhidun2027/zhidun)
+&nbsp;
+![stars](https://img.shields.io/github/stars/zhidun2027/zhidun?style=for-the-badge&color=39d98a&labelColor=0d1117)
+![release](https://img.shields.io/github/v/release/zhidun2027/zhidun?style=for-the-badge&color=49cfe0&labelColor=0d1117)
+![license](https://img.shields.io/github/license/zhidun2027/zhidun?style=for-the-badge&color=8a63d2&labelColor=0d1117)
 
 ### 🧰 &nbsp;Tech
 
@@ -45,14 +47,11 @@
 ![apksig](https://img.shields.io/badge/apksig-v1%2Fv2%2Fv3-8a63d2?style=flat-square)
 ![Swing](https://img.shields.io/badge/Swing-FlatLaf-f29111?style=flat-square)
 
-### 📊 &nbsp;GitHub
+### 📊 &nbsp;Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zhidun2027&show_icons=true&hide_border=true&title_color=39d98a&icon_color=49cfe0&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhidun2027&layout=compact&hide_border=true&title_color=39d98a&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zhidun2027&hide_border=true&background=0d1117&ring=39d98a&fire=49cfe0&currStreakLabel=39d98a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=21262d" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zhidun2027&hide_border=true&background=0d1117&ring=39d98a&fire=49cfe0&currStreakLabel=39d98a&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=21262d" alt="contribution streak" />
 
 </div>
 
