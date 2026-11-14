@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=39D98A&center=true&vCenter=true&width=620&height=52&lines=Android+security+and+APK+hardening;DEX+encryption%2C+native+shell+engine;Reverse+engineering+and+anti-tamper" alt="Android security · APK hardening · reverse engineering" />
 
-# Hi, I'm Liang Han &nbsp;👋
+# Hi, I'm Tai Yang &nbsp;👋
 
 **I work on Android security — app hardening, DEX encryption, and reverse engineering.**
 <br/>Android アプリの保護（ハードニング）とリバースエンジニアリングをやっています。
